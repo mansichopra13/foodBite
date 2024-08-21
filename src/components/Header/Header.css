@@ -2,6 +2,8 @@
     height: 34vw;
     margin: 30px auto;
     background: url('/headerpic.jpeg') no-repeat;
+    /* background: url('/src/assets/nv8.jpg') no-repeat; */
+    /* background-image: url("../../assets/nonveg3.jfif"); */
     background-size: cover;
     position: relative;
     border-radius: 10px;
